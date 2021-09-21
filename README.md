@@ -17,7 +17,7 @@
 
 ### Link:
 
-To know about my first every python project, [CLICK HERE](https://youtu.be/pVisSXJ5nl8)
+To know about my first ever python project, [CLICK HERE](https://youtu.be/pVisSXJ5nl8)
 <p align="center"><b><u><i> Have a good day! </i></u></b><p>
 
 [linkedin]:https://www.linkedin.com/in/samana-shrestha-848278210/
