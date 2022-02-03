@@ -1,5 +1,5 @@
 ### Hi there, I'm Samana 👋
-<p align="center"><img src="https://avatars.githubusercontent.com/u/83801122?v=4" width="290"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/83801122?v=4" width="200"></p>
 ## I'm a computing major at Softwarica College of IT and E-commerce!!
 <br />
 - 👾 I’m wanting to learning everything.
